@@ -1,6 +1,6 @@
 # PNU_3991_AR
 ---------
-#[لینک اسکایپ گروه](https://join.skype.com/invite/u2OvwqOOjfE3)
+#[لینک میتینگ گروه ها](https://join.skype.com/hZCKlg8ef2kK)
 # پولاددباغ مقتدر
 - [PNU_3991_AR](https://github.com/polbadman/PNU_3991_AR)
 - [Resume](https://polbadman.github.io/Resume/) 
