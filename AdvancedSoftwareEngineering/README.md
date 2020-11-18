@@ -66,8 +66,8 @@
  
 </table>
 
-
-### اهداف پروژه:
+<div dir=rtl>
+<h2> اهداف پروژه:</h2>
 - بکارگیری چارچوب node.js
 - بکارگیری پایگاه داده SQLite
 - پیاده سازی مفهوم CRUD
@@ -75,7 +75,9 @@
 - استقرار(Deploy)پروژه
 - واکشی پروژه از گیت هاب به سرور استقرار
 
-### لینک پروژه:
-- [نمای برخط پروژه](https://app-dreams.glitch.me/)
-- [لینک کد منبع پروژه](https://github.com/polbadman/glitchrepo)
-
+<h2> لینک پروژه:</h2>
+<ul>
+<li></li>- [نمای برخط پروژه](https://app-dreams.glitch.me/)</li>
+<li>- [لینک کد منبع پروژه](https://github.com/polbadman/glitchrepo)</li>
+</ul>
+</div>
