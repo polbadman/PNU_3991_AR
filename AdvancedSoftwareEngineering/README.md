@@ -68,16 +68,21 @@
 
 <div dir=rtl>
 <h2> اهداف پروژه:</h2>
-- بکارگیری چارچوب node.js
-- بکارگیری پایگاه داده SQLite
-- پیاده سازی مفهوم CRUD
-- بکارگیر ورژن کنترل توزیع شده گیت هاب
-- استقرار(Deploy)پروژه
-- واکشی پروژه از گیت هاب به سرور استقرار
+<ul>
+  <li>- بکارگیری چارچوب node.js</li>
+  <li>- بکارگیری پایگاه داده SQLite</li>
+  <li>- پیاده سازی مفهوم CRUD</li>
+  <li>- بکارگیر ورژن کنترل توزیع شده گیت هاب</li>
+  <li>- استقرار(Deploy)پروژه</li>
+  <li>- واکشی پروژه از گیت هاب به سرور استقرار</li>
+</ul>
+
+
+
 
 <h2> لینک پروژه:</h2>
 <ul>
-<li></li>- [نمای برخط پروژه](https://app-dreams.glitch.me/)</li>
-<li>- [لینک کد منبع پروژه](https://github.com/polbadman/glitchrepo)</li>
+<li><a href="https://app-dreams.glitch.me/">- [نمای برخط پروژه]</a></li></li>
+<li><a href="https://github.com/polbadman/glitchrepo">- [لینک کد منبع پروژه]</li>
 </ul>
 </div>
