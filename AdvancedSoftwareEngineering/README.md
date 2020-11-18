@@ -39,8 +39,8 @@
  <td  align="center">https://polbadman.github.io/PNU_3991_AR</td> 
  <td  align="center">https://polbadman.github.io/SOP/</td>
  <td  align="center">https://polbadman.github.io/Resume/</td>
- <td  align="center">پولاددباغ مقتدر</td>
- <td  align="center">980218747</td>
+ <td  align="center">شاهين جلالي قره موسي</td>
+ <td  align="center">980005813</td>
  <td align="center">1</td>
  </tr>
  
