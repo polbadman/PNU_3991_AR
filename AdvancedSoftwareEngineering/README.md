@@ -59,7 +59,7 @@
  <td  align="center">https://polbadman.github.io/Resume/</td>
  <td  align="center">پولاددباغ مقتدر</td>
  <td  align="center">980218747</td>
- <td align="center">1</td>
+ <td  align="center">1</td>
  </tr>
  
 
@@ -77,7 +77,7 @@
   <li>مفاهیم کیفیتی نرم افزار</li>
   <li>تکنیک مرور نرم افزار/li>
   <liراهبرد آزمون نرم افزار</li>
-  <liمدیریت پیکربندی نرمافزار</li>
+  <li>مدیریت پیکربندی نرمافزار</li>
   <li>معیار های محصول</li>
 </ul>
 <h2> اهداف پروژه:</h2>
