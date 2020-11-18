@@ -65,7 +65,8 @@
 
  
 </table>
-<div dir="rtl">
+
+
 ### اهداف پروژه:
 - بکارگیری چارچوب node.js
 - بکارگیری پایگاه داده SQLite
@@ -77,4 +78,4 @@
 ### لینک پروژه:
 - [نمای برخط پروژه](https://app-dreams.glitch.me/)
 - [لینک کد منبع پروژه](https://github.com/polbadman/glitchrepo)
-</div>
+
