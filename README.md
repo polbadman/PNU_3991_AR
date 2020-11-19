@@ -7,6 +7,7 @@
 - [SOP](https://polbadman.github.io/SOP/)
 - [GitHub](https://github.com/polbadman)
 - [quera.ir](https://quera.ir/profile/pol)
+- [گواهی دوره جاوااسکریپت](https://www.sololearn.com/Profile/20404490/JavaScript)
 ------------------
 ## گروه ها
 ##
