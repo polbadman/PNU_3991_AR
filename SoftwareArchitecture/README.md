@@ -81,9 +81,8 @@
 </ul>
 <h2> اهداف پروژه:</h2>
 <ul>
-  <li>- بکارگیری چارچوب node.js</li>
-  <li>- بکارگیری پایگاه داده MONGODB</li>
-  <li>- پیاده سازی مفهوم CRUD</li>
+  <li>بکارگری زبان صرف جاوااسکریپت</li>
+  <li>انتخاب وپیاده سازی چند بازی</li>
   <li>- بکارگیر ورژن کنترل توزیع شده گیت هاب</li>
   <li>- استقرار(Deploy)پروژه</li>
   <li>- واکشی پروژه از گیت هاب به سرور استقرار</li>
@@ -94,7 +93,7 @@
 
 <h2> لینک پروژه:</h2>
 <ul>
-<li><a href="https://polnextjs.vercel.app//">- [نمای برخط پروژه]</a></li></li>
-<li><a href="https://github.com/polbadman/POLnextjs">- [لینک کد منبع پروژه]</li>
+<li><a href="https://polbadman.github.io/jsGames/">- [نمای برخط پروژه]</a></li></li>
+<li><a href="https://github.com/polbadman/jsGames">- [لینک کد منبع پروژه]</li>
 </ul>
 </div>
