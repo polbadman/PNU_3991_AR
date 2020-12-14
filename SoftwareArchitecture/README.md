@@ -73,7 +73,7 @@
 </ul>
 <h2>اهداف درسی:</h2>
 <ul>
-  <li>طراحی برنامه های تحت وب</li>
+  <li> با استفاده از چارچوب nodeJSطراحی برنامه های تحت وب</li>
   <li>انتخاب یک متدولوژی برای پیاده سازی</li>
   <li>معماری نرم افزار</li>
   <li>انتخاب الگو و معماری نرم افزار</li>
@@ -93,7 +93,7 @@
 
 <h2> لینک پروژه:</h2>
 <ul>
-<li><a href="https://polbadman.github.io/jsGames/">- [نمای برخط پروژه]</a></li></li>
-<li><a href="https://github.com/polbadman/jsGames">- [لینک کد منبع پروژه]</li>
+  <li><a href="https://polnextjs.vercel.app//">- [نمای برخط پروژه]</a></li></li>
+  <li><a href="https://github.com/polbadman/POLnextjs">- [لینک کد منبع پروژه]</li>
 </ul>
 </div>
