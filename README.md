@@ -7,7 +7,7 @@
 - [SOP](https://polbadman.github.io/SOP/)
 - [GitHub](https://github.com/polbadman)
 - [quera.ir](https://quera.ir/profile/pol)
-- [Certificates](https://polbaman.github.io/certificates/)
+- [Certificates](https://polbadman.github.io/certificates/)
 - [گواهی دوره جاوااسکریپت](https://www.sololearn.com/Certificate/1024-20404490/pdf/)
 - [گواهی دوره پتچ ورک](http://jlord.us/patchwork/)
 
