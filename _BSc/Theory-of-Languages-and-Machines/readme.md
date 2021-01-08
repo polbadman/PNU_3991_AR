@@ -10,7 +10,7 @@
 </tr>
 
 <tr>
-<td colspan="7"  align="center"><a href="https://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/#Projects">- [موضوع پروژه:پیاده سازی پروژه های مؤسسه پل تکنیک رنسلیر]</a></td>
+<td colspan="7"  align="center"><a href="https://www.cs.rpi.edu/~moorthy/Courses/S04/modcomp/#Projects">[موضوع پروژه:پیاده سازی پروژه های مؤسسه پلی تکنیک رنسلیر]</a></td>
 </tr>
 
 <tr>
