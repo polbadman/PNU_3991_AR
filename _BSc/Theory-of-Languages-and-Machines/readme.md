@@ -80,7 +80,7 @@
 
 <h2> لینک پروژه:</h2>
 <ul>
-<li><a href="https://codepen.io/polbadman/pen/wvzdMdJ">- [نمای برخط پروژه]</a></li>
-<li><a href="https://codepen.io/polbadman/pen/wvzdMdJ">- [لینک کد منبع پروژه]</li>
+<li><a href="https://codepen.io/polbadman/pen/wvzdMdJ">پروژه جاوا- [نمای برخط پروژه]</a></li>
+<li><a href="https://www.onlinegdb.com/PK8SlcVN8">پروژه کامپایلر- [نمای برخط پروژه]</li>
 </ul>
 </div>
